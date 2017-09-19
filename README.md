@@ -1,6 +1,19 @@
 # Frequency Analysis of Words
 
-[TODO. There will be project description]
+Program return frequency of words in file
+
+# Quick start
+
+```#!bash
+
+Windows 10, PS:
+```#!bash
+
+PS C:\ python lang_frequency.py <your file>
+word1 - count
+word2 - count
+...
+```
 
 # Project Goals
 
